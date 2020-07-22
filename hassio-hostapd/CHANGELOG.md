@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.4]
+### Fixed
+- Removed specific versions, could be the cause of the nmcli dropouts 
+
 ## [1.0.3]
 ### Fixed
 - Update apk networkmanager and sudo in Dockefile. 
