@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.5]
+### Fixed
+- Allowed more bands (20mhz and 40 mhz) + set my countrycode to BE 
+
 ## [1.0.4]
 ### Fixed
 - Removed specific versions, could be the cause of the nmcli dropouts 
